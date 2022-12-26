@@ -178,7 +178,6 @@
     <ClCompile Include="6-2.c" />
     <ClCompile Include="6-3.c" />
     <ClCompile Include="6-4.c" />
-    <ClCompile Include="6-5.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="2-8.c" />
