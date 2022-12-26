@@ -2,7 +2,8 @@
 #include <stdio.h>
 int main(void)
 {
-	printf("Hello C World");
+	int a;
+	float b;
 
 	return 0;
 }
