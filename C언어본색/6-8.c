@@ -1,0 +1,11 @@
+/*
+#include <stdio.h>
+int main(void)
+{
+	float num1 = 0.123456;
+	printf("flaotÇü: %f \n", num1);
+	printf("flaotÇü: %.2f \n", num1);
+
+	return 0;
+}
+*/
