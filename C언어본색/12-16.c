@@ -1,3 +1,4 @@
+/*
 #include <stdio.h>
 void add(int num1, int num2);
 void subtract(int num1, int num2);
@@ -40,3 +41,4 @@ void subtract(int num1, int num2)
 	result = num1 - num2;
 	printf("%d - %d = %d ÀÔ´Ï´Ù. \n", num1, num2, result);
 }
+*/
