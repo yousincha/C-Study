@@ -32,3 +32,14 @@ C언어 본색 명강의가 일으키는 C언어의 기적 교재를 참고하�
 * 실습03-08: 변수 선언 주의사항 2 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-8.c)
 * 실습03-09: 변수 선언 주의사항 3 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-9.c)
 
+### 4장
+---
+* 실습04-01: 정수형 상수 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/4-1.c)
+* 실습04-02: 실수형 상수 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/4-2.c)
+* 실습04-03: 문자 상수  [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/4-3.c)
+* 실습04-04: ASCII코드 출력 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/4-4.c)
+* 실습04-05: 문자열 상수 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/4-5.c)
+* 실습04-06: const 키워드 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/4-6.c)
+* 실습04-07: 컴파일 에러 상황 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/4-7.c)
+* 실습04-08: #define 문을 이용 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/4-8.c)
+
