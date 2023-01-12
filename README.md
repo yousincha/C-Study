@@ -347,7 +347,7 @@
 * 실습05-15: #ifdef~#endif 와 #ifdef~#endif [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/19-9.c)
 * 실습05-16: #ifndef~#endif [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/19-9.c)
 * 실습05-17: 파일 분할-1 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/19-9.c)
-* 실습05-18:  [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/19-9.c)
+* 실습05-18: 파일 분할-2 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/19-9.c)
 * 실습05-19:  [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/19-9.c)
 * 실습05-20:  [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/19-9.c)
 * 실습05-21:  [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/19-9.c)
