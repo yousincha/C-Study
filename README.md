@@ -32,9 +32,9 @@
 * 실습03-04: 데이터란 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-4.c)
 * 실습03-05: 메모리 공간(변수)에 데이터 저장 후 출력 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-5.c)
 * 실습03-06: 변수에 저장한 데이터를 변경 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-6.c)
-* 실습03-07: 변수 선언 주의사항 1 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-7.c)
-* 실습03-08: 변수 선언 주의사항 2 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-8.c)
-* 실습03-09: 변수 선언 주의사항 3 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-9.c)
+* 실습03-07: 변수 선언 주의사항-1 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-7.c)
+* 실습03-08: 변수 선언 주의사항-2 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-8.c)
+* 실습03-09: 변수 선언 주의사항-3 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-9.c)
 
 ### 4장
 ---
@@ -170,26 +170,41 @@
 
 ### 3장
 ---
-* 실습03-01: 변수란? [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-1.c)
-* 실습03-02: 변수 선언 방법 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-2.c)
-* 실습03-03: int형 변수와 float형 변수  [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-3.c)
-* 실습03-04: 데이터란 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-4.c)
-* 실습03-05: 메모리 공간(변수)에 데이터 저장 후 출력 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-5.c)
-* 실습03-06: 변수에 저장한 데이터를 변경 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-6.c)
-* 실습03-07: 변수 선언 주의사항 1 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-7.c)
-* 실습03-08: 변수 선언 주의사항 2 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-8.c)
-* 실습03-09: 변수 선언 주의사항 3 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-9.c)
+* 실습03-01: 이전 예제 복습 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/12-1.c)
+* 실습03-02: 포인터 변수 선언 방법 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/12-2.c)
+* 실습03-03: 포인터 변수 사용  [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/12-3.c)
+* 실습03-04: int형 변수의 주소 저장 및 해당 주소 데이터 저장 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/12-4.c)
+* 실습03-05: *&*&a &*&a코드 해석 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/12-5.c)
+* 실습03-06: 간접 접근한 데이터를 덧셈 연산 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/12-6.c)
+* 실습03-07: 다차원 포인터 변수의 사용-1 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/12-7.c)
+* 실습03-08: 다차원 포인터 변수의 사용-2 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/12-8.c)
+* 실습03-09: 다차원 포인터 변수의 사용-3 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/12-9.c)
+* 실습03-10: 간접 접근의 데이터 변경 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/3-9.c)
+* 실습03-11: 주소의 가감산 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/12-9.c)
+* 실습03-12: int형 변수, int형 1차원 포인터, int형 2차원 포인터 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/12-9.c)
+* 실습03-13: 주소 가산을 통한 포인터와 배열의 관계 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/12-9.c)
+* 실습03-14: 함수 포인터 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/12-9.c)
+* 실습03-15: 함수 포인터 사용 방법 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/12-9.c)
+* 실습03-16: 조건문에 따른 함수의 시작 주소 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/12-9.c)
 
 ### 4장
 ---
-* 실습04-01: 정수형 상수 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/4-1.c)
-* 실습04-02: 실수형 상수 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/4-2.c)
-* 실습04-03: 문자 상수  [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/4-3.c)
-* 실습04-04: ASCII코드 출력 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/4-4.c)
-* 실습04-05: 문자열 상수 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/4-5.c)
-* 실습04-06: const 키워드 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/4-6.c)
-* 실습04-07: 컴파일 에러 상황 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/4-7.c)
-* 실습04-08: #define 문을 이용 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/4-8.c)
+* 실습04-01: 배열 이름은 배열의 시작 주소 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/13-1.c)
+* 실습04-02: 배열의 주소에 * 연산자 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/13-2.c)
+* 실습04-03: 이전 예제 복습 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/13-3.c)
+* 실습04-04: 포인터 변수를 통한 1차원 배열 요소의 주소 접근 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/13-4.c)
+* 실습04-05: 포인터 변수를 통한 1차원 배열 요소의 값 접근 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/13-5.c)
+* 실습04-06: 1차원 배열에서 저장된 값을 표현하는 다양한 방법 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/13-6.c)
+* 실습04-07: 포인터변수와 배열의 크기 차이 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/13-7.c)
+* 실습04-08: 주소의 가감산을 이용한 배열의 접근 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/13-8.c)
+* 실습04-09: 배열의 주소가 다양하게 표현 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/13-8.c)
+* 실습04-10: 포인터 변수를 고정한 상태에서 배열의 메모리 공간에 접근 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/13-8.c)
+* 실습04-11: 포인터 변수를 이동시켜 배열의 메모리 공간에 접근 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/13-8.c)
+* 실습04-12: 2차원 예제 복습-1 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/13-8.c)
+* 실습04-13: 2차원 예제 복습-2 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/13-8.c)
+* 실습04-14: 포인터 변수를 통한 2차원 배열의 접근 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/13-8.c)
+* 실습04-15: 1차원 포인터 변수를 통한 2차원 배열의 접근 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/13-8.c)
+* 실습04-16: 배열포인터변수를 통한 2차원 배열의 접근 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/13-8.c)
 
 ### 5장
 ---
