@@ -1,10 +1,10 @@
 # C-Study
 
-![C언어본색](https://user-images.githubusercontent.com/96645785/211747174-5fd37f39-1d35-41bd-a2b7-a5acba1b96e2.png)
+<img src="https://user-images.githubusercontent.com/96645785/211747174-5fd37f39-1d35-41bd-a2b7-a5acba1b96e2.png" width="300">
 
-임베디드 설계 엔지니어가 되기 위해<br/>
-***C언어 본색 명강의가 일으키는 C언어의 기적***
-<br/>교재를 참고하여 기초 공부를 다시작시작하기로 했다.
+>임베디드 설계 엔지니어가 되고자<br/>
+>**C언어 본색 명강의가 일으키는 C언어의 기적**
+><br/>교재를 참고하여 기초 공부를 시작 했다.
 
 ### 2장
 ---
@@ -104,3 +104,35 @@
 * 실습07-15: for문에 조건값이 없는 경우 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/7-15.c)
 * 실습07-16: do~while문 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/7-16.c)
 
+### 8장
+---
+* 실습08-01: if문 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/8-1.c)
+* 실습08-02: if문과 반복문 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/8-2.c)
+* 실습08-03: if~else문 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/8-3.c)
+* 실습08-04: 중첩 if~else문-1 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/8-4.c)
+* 실습08-05: 중첩 if~else문-2 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/8-5.c)
+* 실습08-06: 중첩 else~if문 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/8-6.c)
+* 실습08-07: else~if문 장점-1 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/8-7.c)
+* 실습08-08: else~if문 장점-2 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/8-8.c)
+* 실습08-09: else~if문 필요성 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/8-9.c)
+* 실습08-10: switch~case문 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/8-10.c)
+* 실습08-11: switch~case문의 한계 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/8-11.c)
+* 실습08-12: break와 continue [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/8-12.c)
+* 실습08-13: 짝수문만 나오는 continue [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/8-13.c)
+
+### 9장
+---
+* 실습09-01: sum()함수 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/9-1.c)
+* 실습09-02: 함수의 적용 방법-1 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/9-2.c)
+* 실습09-03: 함수의 적용 방법-2 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/9-3.c)
+* 실습09-04: 함수 내에서 또 다른 함수 호출 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/9-4.c)
+* 실습09-05: 지역 변수 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/9-5.c)
+* 실습09-06: 지역 변수의 에러 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/9-6.c)
+* 실습09-07: 매개 변수(함수의 인자)도 지역 변수 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/9-7.c)
+* 실습09-08: 전역 변수 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/9-8.c)
+* 실습09-09: 정적 변수 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/9-9.c)
+* 실습09-10: 레지스터 변수 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/9-10.c)
+* 실습09-11: 재귀 함수의 문제 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/9-11.c)
+* 실습09-12: 재귀 함수의 문제 해결방안 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/9-12.c)
+* 실습09-13: 매개 변수를 이용한 재귀 호출 [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/9-13.c)
+* 실습09-14: return 문을 이용한 재귀  [바로가기](https://github.com/yousincha/C-Study/blob/master/C%EC%96%B8%EC%96%B4%EB%B3%B8%EC%83%89/9-14.c)
